@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">orderCoffee</string>
+    <string name="topper" translatable="false">topper</string>
+</resources>
